@@ -24,3 +24,12 @@ A row in the locker can have 0 diamonds.
 
 The locker will have at least 1 diamond in it.
 All the inputs are valid.
+
+# Card game War
+There are two players.
+The cards are all dealt equally to each player.
+Each round, player 1 lays a card down face up at the same time that player 2 lays a card down face up. Whoever has the highest value card, wins both round and takes both cards.
+The winning cards are added to the bottom of the winners deck.
+Aces are low.
+If both cards are of equal value - three cards are dealt from each hand face down and then 1 more face up to war again. the winner takes all the cards. If this ties repeat the process again.
+The player that runs out of cards loses.
